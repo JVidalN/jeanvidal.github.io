@@ -46,6 +46,8 @@
 
 ## :rocket: Technologies and Features
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fcc1e1acfa054ea0b4887e1d0a51336a)](https://app.codacy.com/manual/JVidalN/jvidaln.github.io?utm_source=github.com&utm_medium=referral&utm_content=JVidalN/jvidaln.github.io&utm_campaign=Badge_Grade_Dashboard)
+
 This template was designed by [Xiaoying Riley](http://themes.3rdwavemedia.com) and modified by me with improvements that i considered relevants with the following technologies:
 
 - [GitHub REST API v3](https://developer.github.com/v3/)
